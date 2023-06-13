@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/yarikpo/TastyTable/static/css/main.e88d0484.css",
+    "main.js": "/yarikpo/TastyTable/static/js/main.14aea517.js",
+    "static/media/afri.jpg": "/yarikpo/TastyTable/static/media/afri.c099f843ec42f924d767.jpg",
+    "static/media/ital.jpg": "/yarikpo/TastyTable/static/media/ital.7d2457dfc627ad912a3c.jpg",
+    "static/media/chine.jpg": "/yarikpo/TastyTable/static/media/chine.023ac6cd86176d2439d4.jpg",
+    "static/media/user.png": "/yarikpo/TastyTable/static/media/user.e51fca9d2823797c58f5.png",
+    "static/media/card1.png": "/yarikpo/TastyTable/static/media/card1.3ba7ed1468f9624a0867.png",
+    "static/media/prime-logo.png": "/yarikpo/TastyTable/static/media/prime-logo.fa945d705fe8850373fb.png",
+    "index.html": "/yarikpo/TastyTable/index.html",
+    "main.e88d0484.css.map": "/yarikpo/TastyTable/static/css/main.e88d0484.css.map",
+    "main.14aea517.js.map": "/yarikpo/TastyTable/static/js/main.14aea517.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e88d0484.css",
+    "static/js/main.14aea517.js"
+  ]
+}
